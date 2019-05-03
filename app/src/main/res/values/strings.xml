@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QrCodeTicketing</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_result">Please focus Camera on a QR Code</string>
+    <string name="title_activity_launcher">Qr Code Ticketing</string>
+    <string name="title_activity_view_details">ViewDetails</string>
+</resources>
